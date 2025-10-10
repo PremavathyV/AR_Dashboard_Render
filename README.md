@@ -60,30 +60,42 @@ Press ▶️ Play Mode to view the dashboard
 
 Use dropdowns to switch between employees or months
 
-📊 Example Output
-Employee: Krishna
-Time Range: Jan – Jun
+## 📊 Example Output
 
-Month	Sales (₹)
-M1	45,000
-M2	47,000
-M3	50,000
-M4	52,000
-M5	53,000
-M6	55,000
+**Employee:** `Krishna`  
+**Time Range:** `Jan – Jun`
 
-🧾 Total Sales: ₹6,84,000
+| Month | Sales (₹) |
+|:------:|:----------:|
+| M1 | 45,000 |
+| M2 | 47,000 |
+| M3 | 50,000 |
+| M4 | 52,000 |
+| M5 | 53,000 |
+| M6 | 55,000 |
 
-🌈 Future Enhancements
-🔗 Real-time data from CSV/API
+**🧾 Total Sales:** `₹6,84,000`
 
-🎞️ Smooth bar animations
+---
 
-🧮 Filters by product or region
+## 🌈 Future Enhancements
 
-🖼️ Export chart as image/report
+- 🔗 **Real-time data integration** (CSV / API)
+- 🎞️ **Smooth bar animations**
+- 🧮 **Advanced filters** (Product / Region)
+- 🖼️ **Export charts** as image or report
 
-👩‍💻 Author
-<span style="font-size:18px;">Prema V</span>
-📧 vprema376@gmail.com
-🔗 GitHub – PremavathyV
+---
+
+## 👩‍💻 Author
+
+**<span style="font-size:18px;">Prema V</span>**  
+📧 [vprema376@gmail.com](mailto:vprema376@gmail.com)  
+🔗 [GitHub – PremavathyV](https://github.com/PremavathyV)  
+💼 [LinkedIn – Prema V](https://www.linkedin.com/in/premavathy-v)  
+
+---
+
+<p align="center">
+✨ Built with Unity · Designed for Insight ✨  
+</p>
