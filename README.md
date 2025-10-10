@@ -87,14 +87,16 @@ Use dropdowns to switch between employees or months
 
 ---
 
-## 👩‍💻 Author
+ ## 👩‍💻 Author
 
-**<span style="font-size:18px;">Prema V</span>**  
-📧 [vprema376@gmail.com](mailto:vprema376@gmail.com)  
-🔗 [GitHub – PremavathyV](https://github.com/PremavathyV)  
-💼 [LinkedIn – Prema V](https://www.linkedin.com/in/premavathy-v)  
+- **Premavathy V**  
+- 📧 Email: [vprema376@gmail.com](mailto:vprema376@gmail.com)  
+- 🌐 GitHub: [PremavathyV](https://github.com/PremavathyV)  
+- 💼 LinkedIn:
+ [Premavathy Vijayan](https://www.linkedin.com/in/premavathy-vijayan-921a39252/)
 
 ---
+
 
 <p align="center">
 ✨ Built with Unity · Designed for Insight ✨  
