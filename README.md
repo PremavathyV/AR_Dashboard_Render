@@ -3,7 +3,6 @@
 <p align="center">
 A 3D <b>Sales Visualization Dashboard</b> built using <b>Unity</b> 🎮  
 Visualize monthly sales interactively with dynamic charts and dropdown filters!  
-
 </p>
 
 ---
